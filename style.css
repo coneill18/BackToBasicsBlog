@@ -1,9 +1,13 @@
 h1{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    color: pink;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
 }
-.image1{
+.image 1{
     width: 15%
     height: auto;
+}
+body{
+    background-color: lightgrey;
 }
